@@ -7,6 +7,8 @@ Welcome to my Ping Network Project
 
 <h2>Simple Diagram</h2>
 
+<img width="306" alt="Diagram of devices and ip example" src="https://user-images.githubusercontent.com/111426558/186481222-bc78629e-4246-4935-8302-bde0e94232b2.png">
+
 <h3>Ping Router from Desktop/Laptop</h3>
 
 ![Picture1](https://user-images.githubusercontent.com/111426558/186478654-d1480375-d541-4daa-b65b-deebcecc8ca2.png)
